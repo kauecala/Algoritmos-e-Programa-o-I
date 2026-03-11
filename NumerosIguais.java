@@ -1,3 +1,4 @@
+//Kaue Calasans Araujo - Turma B ADS Senac
 import java.util.Scanner;
 public class NumerosIguais {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+//Kaue Calasans Araujo - Turma B ADS Senac
+
 import java.util.Scanner;
 public class DescontoINSS {
     public static void main(String[] args) {
