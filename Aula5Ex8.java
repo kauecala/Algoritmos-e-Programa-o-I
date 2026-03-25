@@ -1,3 +1,4 @@
+// Kaue Calasans Araujo - Senac ADS Turma B
 import java.util.Scanner;
 public class Aula5Ex8 {
     public static void main(String[] args) {
